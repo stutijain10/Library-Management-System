@@ -66,7 +66,7 @@ LibraryManagementSystem/
 
 ### **1. Clone the repository**
 ```bash
-git clone <your github repo link>
+git clone (https://github.com/stutijain10/Library-Management-System.git)
 ```
 ### **2. Navigate to the project folder**
 ```bash
@@ -101,4 +101,4 @@ python -m unittest discover tests
 
 ## AUTHOR
 **Stuti Jain**
-**VITyarthi Project**gh
+**VITyarthi Project**
